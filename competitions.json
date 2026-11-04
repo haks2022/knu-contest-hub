@@ -1,0 +1,600 @@
+{
+  "lastUpdated": "2026-11-04T09:00:00+09:00",
+  "totalCount": 18,
+  "items": [
+    {
+      "id": "knu_festa_2026",
+      "itemType": "event",
+      "title": "2026 경북대 가을 학술·문화제 & 동아리 박람회 · 전교생",
+      "orgId": "knu_main",
+      "orgName": "대학본부·학생처",
+      "subOrg": "학생처 · 총동아리연합회",
+      "category": "event",
+      "categoryName": "교내행사·특강·페스티벌",
+      "postedDate": "2026-11-01",
+      "deadline": "2026-11-10",
+      "temp": "99.1도",
+      "quickBadges": [
+        "교내 대형행사",
+        "기념품·푸드트럭"
+      ],
+      "eligibility": "경북대학교 학부·대학원 재학생 및 교직원 누구나",
+      "benefit": "스탬프 투어 완주 시 한정판 호반우 굿즈 및 비교과 마일리지 지급",
+      "url": "https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/list.action?bbs_cde=1&menu_idx=67",
+      "tags": [
+        "가을학술제",
+        "동아리박람회",
+        "호반우굿즈",
+        "일청담"
+      ],
+      "perks": [
+        "호반우 굿즈증정",
+        "푸드트럭·공연",
+        "스탬프투어 경품"
+      ],
+      "summary": "일청담과 센트럴파크 일대에서 열리는 가을 학술·문화 페스티벌 및 중앙동아리 부스 체험 행사입니다.",
+      "isNew": true
+    },
+    {
+      "id": "it_see_105800",
+      "itemType": "contest",
+      "title": "2026 KNU 캡스톤디자인 경진대회 · 학부팀",
+      "orgId": "it_college",
+      "orgName": "IT대학 (전자공학부·컴퓨터학부)",
+      "subOrg": "IT대학 · 대구앵커사업단",
+      "category": "capstone",
+      "categoryName": "캡스톤·공학설계",
+      "postedDate": "2026-10-29",
+      "deadline": "2026-11-18",
+      "temp": "98.2도",
+      "quickBadges": [
+        "총장상 수여",
+        "개교 80주년"
+      ],
+      "eligibility": "2026학년도 캡스톤디자인(종합설계) 수강 학부생 팀",
+      "benefit": "경북대학교 총장상 및 대상 상금 200만원",
+      "url": "https://see.knu.ac.kr/mobile/content/notice.html?fidx=105800",
+      "tags": [
+        "캡스톤디자인",
+        "종합설계",
+        "산학협력",
+        "시제품개발"
+      ],
+      "perks": [
+        "대상 200만원",
+        "경북대 총장상",
+        "시제품 제작지원"
+      ],
+      "summary": "개교 80주년 기념 학부생 우수 캡스톤 성과를 공유하고 산학협력 문제 해결 역량을 겨룹니다.",
+      "isNew": true
+    },
+    {
+      "id": "startup_noti2_455",
+      "itemType": "contest",
+      "title": "인공지능 학습용 데이터 활용 AI 해커톤 · 무관",
+      "orgId": "startup",
+      "orgName": "창업지원단",
+      "subOrg": "경북대 창업지원단",
+      "category": "hackathon",
+      "categoryName": "해커톤·AI·SW",
+      "postedDate": "2026-10-25",
+      "deadline": "2026-11-14",
+      "temp": "97.8도",
+      "quickBadges": [
+        "선발팀 전원시상",
+        "성실 멘토링"
+      ],
+      "eligibility": "AI 데이터 분석 및 모델 개발에 관심 있는 대학(원)생",
+      "benefit": "본선 진출 선발팀 전원 시상 (대상 300만원)",
+      "url": "https://startup.knu.ac.kr/bbs/board.php?bo_table=noti2&wr_id=455",
+      "tags": [
+        "AI해커톤",
+        "데이터분석",
+        "딥러닝",
+        "웹서비스"
+      ],
+      "perks": [
+        "선발팀 전원시상",
+        "대상 300만원",
+        "현업자 멘토링"
+      ],
+      "summary": "공개된 인공지능 학습용 데이터를 활용해 공공·산업 문제를 해결하는 AI 서비스 해커톤입니다.",
+      "isNew": false
+    },
+    {
+      "id": "swedu_talk_2026",
+      "itemType": "event",
+      "title": "글로벌 AI 테크 리더 초청 특강 & 네트워킹 데이 · 전교생",
+      "orgId": "swedu",
+      "orgName": "SW교육원·IT교육센터",
+      "subOrg": "SW중심대학사업단 · IT대학",
+      "category": "event",
+      "categoryName": "교내행사·특강·페스티벌",
+      "postedDate": "2026-11-01",
+      "deadline": "2026-11-08",
+      "temp": "96.2도",
+      "quickBadges": [
+        "SW마일리지 20점",
+        "샌드위치·다과"
+      ],
+      "eligibility": "AI·SW 최신 기술 트렌드와 커리어에 관심 있는 경북대생 누구나",
+      "benefit": "참석자 전원 SW마일리지 20점 부여 및 현장 추첨 경품·샌드위치 제공",
+      "url": "https://oz.knu.ac.kr/hmpg/main/main.knu",
+      "tags": [
+        "AI초청특강",
+        "네트워킹데이",
+        "글로벌플라자",
+        "SW마일리지"
+      ],
+      "perks": [
+        "SW마일리지 20점",
+        "점심 샌드위치 제공",
+        "현직자 Q&A"
+      ],
+      "summary": "글로벌플라자 효석홀에서 진행되는 빅테크 현직 AI 엔지니어 초청 강연 및 진로 토크쇼입니다.",
+      "isNew": true
+    },
+    {
+      "id": "knu_green_camp_2026",
+      "itemType": "campaign",
+      "title": "KNU 탄소중립 그린캠퍼스 텀블러·다회용기 캠페인 · 상시",
+      "orgId": "knu_main",
+      "orgName": "대학본부·학생처",
+      "subOrg": "지속가능발전센터 (SDGs)",
+      "category": "campaign",
+      "categoryName": "캠페인·서포터즈·봉사",
+      "postedDate": "2026-11-02",
+      "deadline": "2026-11-16",
+      "temp": "94.6도",
+      "quickBadges": [
+        "환경 캠페인",
+        "커피쿠폰 100%"
+      ],
+      "eligibility": "교내 카페에서 개인 텀블러를 사용하는 경북대 구성원 전체",
+      "benefit": "5회 인증 시 교내 카페 아메리카노 쿠폰 지급 및 봉사·비교과 시간 인정",
+      "url": "https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/list.action?bbs_cde=1&menu_idx=67",
+      "tags": [
+        "탄소중립캠페인",
+        "그린캠퍼스",
+        "텀블러인증",
+        "ESG서포터즈"
+      ],
+      "perks": [
+        "커피쿠폰 지급",
+        "비교과 마일리지",
+        "모바일 간편인증"
+      ],
+      "summary": "일회용 컵 줄이기 실천을 위해 교내 카페 이용 시 텀블러 사용을 인증하는 친환경 캠페인입니다.",
+      "isNew": true
+    },
+    {
+      "id": "knu_main_1338502",
+      "itemType": "contest",
+      "title": "서울대 공동 「KNU in the World」 글로벌 PBL · 재학생",
+      "orgId": "knu_main",
+      "orgName": "대학본부·학생처",
+      "subOrg": "진로취업과 · 글로벌교육센터",
+      "category": "global",
+      "categoryName": "글로벌·대외활동",
+      "postedDate": "2026-10-15",
+      "deadline": "2026-11-06",
+      "temp": "96.4도",
+      "quickBadges": [
+        "싱가포르 파견",
+        "마감 임박"
+      ],
+      "eligibility": "경북대 학부 재학생 (글로벌 문제해결 PBL 팀 프로젝트)",
+      "benefit": "싱가포르 현지 탐방 항공·숙박비 지원 및 수료증 수여",
+      "url": "https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/viewBtin.action?bbs_cde=1&btin.bbs_cde=1&btin.doc_no=1338502&btin.appl_no=000000&menu_idx=67",
+      "tags": [
+        "글로벌PBL",
+        "싱가포르탐방",
+        "서울대공동",
+        "해외파견"
+      ],
+      "perks": [
+        "항공·숙박 지원",
+        "서울대 합동팀",
+        "공식 수료증"
+      ],
+      "summary": "서울대학교와 공동 운영하며 싱가포르 현지 기관을 탐방해 글로벌 이슈 해결 프로젝트를 수행합니다.",
+      "isNew": false
+    },
+    {
+      "id": "knucube_mentor_2026",
+      "itemType": "event",
+      "title": "2026 직무 멘토링 박람회 & 동문 선배 토크콘서트 · 재학생",
+      "orgId": "knucube",
+      "orgName": "진로취업·도서관·CUBE",
+      "subOrg": "진로취업과 · 대학일자리플러스센터",
+      "category": "event",
+      "categoryName": "교내행사·특강·페스티벌",
+      "postedDate": "2026-11-01",
+      "deadline": "2026-11-13",
+      "temp": "95.8도",
+      "quickBadges": [
+        "현직자 1:1상담",
+        "취업박람회"
+      ],
+      "eligibility": "경북대 재학생, 휴학생 및 졸업 후 2년 이내 미취업 졸업생",
+      "benefit": "대기업·공기업 현직 동문 1:1 상담, 퍼스널컬러 진단 및 이력서 사진 무료 촬영",
+      "url": "https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/list.action?bbs_cde=1&menu_idx=67",
+      "tags": [
+        "직무박람회",
+        "동문멘토링",
+        "무료이력서사진",
+        "토크콘서트"
+      ],
+      "perks": [
+        "이력서사진 무료",
+        "퍼스널컬러 진단",
+        "취업마일리지"
+      ],
+      "summary": "반도체·배터리·IT·금융·공공기관에 재직 중인 경북대 동문 선배 30명과 만나는 커리어 행사입니다.",
+      "isNew": true
+    },
+    {
+      "id": "knu_main_1338312",
+      "itemType": "contest",
+      "title": "2026 KNU TC AI 윤리 해커톤 · 전공무관",
+      "orgId": "knu_main",
+      "orgName": "대학본부·학생처",
+      "subOrg": "사범대학 미래교육센터",
+      "category": "hackathon",
+      "categoryName": "해커톤·AI·SW",
+      "postedDate": "2026-10-20",
+      "deadline": "2026-11-09",
+      "temp": "91.5도",
+      "quickBadges": [
+        "전공 무관",
+        "비교과 마일리지"
+      ],
+      "eligibility": "경북대학교 학부 재학생 (전공 무관, 3~4인 팀 구성)",
+      "benefit": "우수팀 시상금 총 300만원 및 비교과 마일리지 부여",
+      "url": "https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/viewBtin.action?bbs_cde=1&btin.bbs_cde=1&btin.doc_no=1338312&btin.appl_no=000000&menu_idx=67",
+      "tags": [
+        "AI해커톤",
+        "생성형AI",
+        "프롬프트",
+        "윤리설계"
+      ],
+      "perks": [
+        "총상금 300만원",
+        "비전공자 환영",
+        "비교과 마일리지"
+      ],
+      "summary": "생성형 AI 활용 윤리와 교육 문제 해결을 주제로 AI 서비스 프로토타입을 기획·개발합니다.",
+      "isNew": false
+    },
+    {
+      "id": "it_see_105712",
+      "itemType": "contest",
+      "title": "KNU-대구앵커 청년 연구자 창업 경진대회 · 개인/팀",
+      "orgId": "it_college",
+      "orgName": "IT대학 (전자공학부·컴퓨터학부)",
+      "subOrg": "IT대학 · 대구앵커사업단",
+      "category": "startup",
+      "categoryName": "창업·아이디어",
+      "postedDate": "2026-10-23",
+      "deadline": "2026-11-11",
+      "temp": "89.2도",
+      "quickBadges": [
+        "특허출원 지원",
+        "석박사 가능"
+      ],
+      "eligibility": "경북대 IT대학 학부생 및 대학원생 (개인 또는 팀)",
+      "benefit": "최우수상 150만원 및 특허 출원·사업화 멘토링 지원",
+      "url": "https://see.knu.ac.kr/",
+      "tags": [
+        "창업아이디어",
+        "청년연구자",
+        "반도체·AI",
+        "특허출원"
+      ],
+      "perks": [
+        "최우수 150만원",
+        "특허출원 전액",
+        "1:1 사업화멘토링"
+      ],
+      "summary": "IT·반도체·AI 분야의 연구 성과를 보유한 청년 연구자를 발굴해 사업화와 상금을 지원합니다.",
+      "isNew": false
+    },
+    {
+      "id": "datainst_685",
+      "itemType": "contest",
+      "title": "K-하이테크 Idea Challenge 아이디어 공모전 · 무관",
+      "orgId": "datainst",
+      "orgName": "데이터융복합·사업단",
+      "subOrg": "데이터융복합연구원",
+      "category": "hackathon",
+      "categoryName": "해커톤·AI·SW",
+      "postedDate": "2026-10-22",
+      "deadline": "2026-11-12",
+      "temp": "88.6도",
+      "quickBadges": [
+        "휴학생 가능",
+        "클라우드 지원"
+      ],
+      "eligibility": "빅데이터·AI·클라우드 활용 아이디어 보유 재학생 및 휴학생",
+      "benefit": "대상 고용노동부/연구원장상 및 상금 200만원",
+      "url": "https://datainstitute.knu.ac.kr/contents/bbs/selectBbsView.do?menuId=327&&searchBbsinfo_tcd=1&searchBbscate_tcd=7&selectedId=685",
+      "tags": [
+        "데이터융복합",
+        "K-하이테크",
+        "빅데이터",
+        "클라우드"
+      ],
+      "perks": [
+        "대상 200만원",
+        "휴학생 참여가능",
+        "프로토타입 지원"
+      ],
+      "summary": "디지털 신기술(빅데이터·AI)로 지역과 산업 현안을 해결하는 아이디어를 발굴·시상합니다.",
+      "isNew": false
+    },
+    {
+      "id": "ceedin_2026_01",
+      "itemType": "contest",
+      "title": "2026 창의융합형 공학인재 캡스톤 Fair · 공학계열",
+      "orgId": "ceedin",
+      "orgName": "공학교육혁신센터",
+      "subOrg": "공학교육혁신센터 (공대 6호관)",
+      "category": "capstone",
+      "categoryName": "캡스톤·공학설계",
+      "postedDate": "2026-10-28",
+      "deadline": "2026-11-15",
+      "temp": "93.1도",
+      "quickBadges": [
+        "전국대회 연계",
+        "재료비 지원"
+      ],
+      "eligibility": "공과대학·IT대학 등 공학계열 학부 재학생",
+      "benefit": "거점센터 본선 진출권 부여, 대상 100만원 및 공학혁신 원장상",
+      "url": "https://ceedin.knu.ac.kr/",
+      "tags": [
+        "공학교육혁신센터",
+        "창의설계",
+        "캡스톤Fair",
+        "거점본선"
+      ],
+      "perks": [
+        "전국대회 출전권",
+        "대상 100만원",
+        "작품 재료비 환급"
+      ],
+      "summary": "교내 우수 캡스톤디자인 작품을 선발하여 거점센터 및 전국 창의적 종합설계 본선 출전을 지원합니다.",
+      "isNew": false
+    },
+    {
+      "id": "library_book_camp_2026",
+      "itemType": "campaign",
+      "title": "중앙도서관 가을 독서 문화 주간 & 전자책 챌린지 캠페인",
+      "orgId": "knucube",
+      "orgName": "진로취업·도서관·CUBE",
+      "subOrg": "경북대학교 중앙도서관",
+      "category": "campaign",
+      "categoryName": "캠페인·서포터즈·봉사",
+      "postedDate": "2026-11-02",
+      "deadline": "2026-11-19",
+      "temp": "90.4도",
+      "quickBadges": [
+        "문화 캠페인",
+        "도서관 마일리지"
+      ],
+      "eligibility": "경북대 학부 및 대학원 재학생",
+      "benefit": "독서 한 줄 평 참여자 문화상품권 추첨 및 기간 중 대출 권수 2배 확대",
+      "url": "https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/list.action?bbs_cde=1&menu_idx=67",
+      "tags": [
+        "중앙도서관",
+        "독서문화주간",
+        "전자책챌린지",
+        "에어팟추첨"
+      ],
+      "perks": [
+        "문화상품권 추첨",
+        "도서관 마일리지",
+        "연체해제 이벤트"
+      ],
+      "summary": "가을 학기 독서 장려를 위해 한 줄 서평 응모, 북큐레이션 전시, 연체 도서 반납 해제를 진행합니다.",
+      "isNew": true
+    },
+    {
+      "id": "startup_noti_912",
+      "itemType": "contest",
+      "title": "제14회 청년기업가대회 & 스타트업 허브 · 예비창업",
+      "orgId": "startup",
+      "orgName": "창업지원단",
+      "subOrg": "경북대 창업지원단",
+      "category": "startup",
+      "categoryName": "창업·아이디어",
+      "postedDate": "2026-10-30",
+      "deadline": "2026-11-20",
+      "temp": "95.0도",
+      "quickBadges": [
+        "시드투자 연계",
+        "보육공간 우대"
+      ],
+      "eligibility": "예비창업자 및 대학(원)생 창업동아리 팀",
+      "benefit": "최대 5,000만원 초기 투자 검토 및 교내 창업보육 공간 우대",
+      "url": "https://startup.knu.ac.kr/bbs/board.php?bo_table=noti",
+      "tags": [
+        "청년기업가대회",
+        "스타트업",
+        "시드투자",
+        "창업동아리"
+      ],
+      "perks": [
+        "최대 5천만원 투자",
+        "창업공간 입주우대",
+        "VC 전담심사"
+      ],
+      "summary": "유망 기술·서비스 창업 아이템을 보유한 학생 창업가를 선발하여 초기 투자와 보육 공간을 지원합니다.",
+      "isNew": true
+    },
+    {
+      "id": "mind_care_camp_2026",
+      "itemType": "campaign",
+      "title": "학생상담센터 「마음건강 토닥토닥 & 인권존중」 캠페인",
+      "orgId": "knu_main",
+      "orgName": "대학본부·학생처",
+      "subOrg": "학생상담센터 · 인권센터",
+      "category": "campaign",
+      "categoryName": "캠페인·서포터즈·봉사",
+      "postedDate": "2026-11-03",
+      "deadline": "2026-11-21",
+      "temp": "88.9도",
+      "quickBadges": [
+        "무료 심리검사",
+        "응원간식 키트"
+      ],
+      "eligibility": "경북대학교 재학생 및 대학원생 누구나 (현장 부스 참여)",
+      "benefit": "간이 스트레스 진단, 아로마 힐링 키트 및 응원 간식 박스 무료 증정",
+      "url": "https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/list.action?bbs_cde=1&menu_idx=67",
+      "tags": [
+        "마음건강캠페인",
+        "학생상담센터",
+        "인권센터",
+        "간식키트"
+      ],
+      "perks": [
+        "힐링키트 증정",
+        "무료 심리상담",
+        "복지관 앞 광장"
+      ],
+      "summary": "중간고사 이후 지친 학우들의 마음 건강을 돌보고 상호존중 캠퍼스 문화를 확산하는 현장 캠페인입니다.",
+      "isNew": true
+    },
+    {
+      "id": "swedu_oz_310",
+      "itemType": "contest",
+      "title": "2026 동계 SW혁신 코딩 경진대회 · 전공/비전공",
+      "orgId": "swedu",
+      "orgName": "SW교육원·IT교육센터",
+      "subOrg": "SW중심대학사업단",
+      "category": "hackathon",
+      "categoryName": "해커톤·AI·SW",
+      "postedDate": "2026-11-01",
+      "deadline": "2026-11-22",
+      "temp": "96.9도",
+      "quickBadges": [
+        "SW마일리지 50점",
+        "트랙 분리"
+      ],
+      "eligibility": "경북대 전교생 (SW전공자 트랙 / 비전공자 트랙 분리 운영)",
+      "benefit": "SW마일리지 최대 50점 적립 및 총 장학금 400만원",
+      "url": "https://oz.knu.ac.kr/hmpg/main/main.knu",
+      "tags": [
+        "SW교육원",
+        "알고리즘",
+        "SW마일리지",
+        "오픈소스"
+      ],
+      "perks": [
+        "장학금 총 400만원",
+        "SW마일리지 50점",
+        "비전공자 트랙"
+      ],
+      "summary": "전공자/비전공자 트랙을 분리하여 알고리즘 문제해결 역량과 오픈소스 프로젝트를 평가합니다.",
+      "isNew": true
+    },
+    {
+      "id": "knucube_1336437",
+      "itemType": "contest",
+      "title": "진로 커리어 빌드업 & 직무 포트폴리오 공모전 · 학부",
+      "orgId": "knucube",
+      "orgName": "진로취업·도서관·CUBE",
+      "subOrg": "학생처 진로취업과",
+      "category": "global",
+      "categoryName": "글로벌·대외활동",
+      "postedDate": "2026-11-02",
+      "deadline": "2026-11-25",
+      "temp": "87.5도",
+      "quickBadges": [
+        "경력개발장학금",
+        "1~4학년"
+      ],
+      "eligibility": "경북대 1~4학년 학부 재학생",
+      "benefit": "진로취업 경력개발장학금 마일리지 및 우수작 총장상 시상",
+      "url": "https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/viewBtin.action?bbs_cde=1&btin.bbs_cde=1&btin.doc_no=1336437&btin.appl_no=000000&menu_idx=67",
+      "tags": [
+        "진로취업과",
+        "KNUCUBE",
+        "포트폴리오",
+        "커리어로드맵"
+      ],
+      "perks": [
+        "경력개발장학금",
+        "우수작 총장상",
+        "취업컨설팅 연계"
+      ],
+      "summary": "대학 생활 중 수행한 프로젝트와 직무 준비 과정을 정리해 출품하는 교내 대표 포트폴리오 대회입니다.",
+      "isNew": true
+    },
+    {
+      "id": "datainst_rise_09",
+      "itemType": "contest",
+      "title": "대구RISE 대학원-학부 융합 R&D 챌린지 · 연구팀",
+      "orgId": "datainst",
+      "orgName": "데이터융복합·사업단",
+      "subOrg": "대구RISE사업단 · 산학협력단",
+      "category": "research",
+      "categoryName": "연구·장학·학술",
+      "postedDate": "2026-11-02",
+      "deadline": "2026-11-28",
+      "temp": "86.4도",
+      "quickBadges": [
+        "연구비 300만원",
+        "논문 시상"
+      ],
+      "eligibility": "대학원생 멘토 1인 + 학부생 2~3인으로 구성된 융합 연구팀",
+      "benefit": "팀당 연구활동비 최대 300만원 지원 및 우수 논문 시상",
+      "url": "https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/list.action?bbs_cde=1&menu_idx=67",
+      "tags": [
+        "대구RISE",
+        "학석사연계",
+        "R&D챌린지",
+        "ABB·반도체"
+      ],
+      "perks": [
+        "연구비 300만원",
+        "학석사 멘토링",
+        "학술대회 발표지원"
+      ],
+      "summary": "지역 전략 산업(ABB·반도체·모빌리티) 실전 연구 주제를 대학원생과 학부생이 한 팀으로 수행합니다.",
+      "isNew": false
+    },
+    {
+      "id": "it_see_105565",
+      "itemType": "contest",
+      "title": "Physical AI Challenge 「PAC 2026」 로보틱스 · 학부",
+      "orgId": "it_college",
+      "orgName": "IT대학 (전자공학부·컴퓨터학부)",
+      "subOrg": "인공지능혁신융합대학(AICOSS)",
+      "category": "hackathon",
+      "categoryName": "해커톤·AI·SW",
+      "postedDate": "2026-10-07",
+      "deadline": "2026-10-30",
+      "temp": "84.0도",
+      "quickBadges": [
+        "장비 전액지원",
+        "모집 마감"
+      ],
+      "eligibility": "IT대학 소속 학부생 및 피지컬AI 융합전공 이수생",
+      "benefit": "사업단장상 및 크리에이티브 파크 해커톤 참가비·장비 전액 지원",
+      "url": "https://see.knu.ac.kr/mobile/content/notice.html?fidx=105565",
+      "tags": [
+        "PhysicalAI",
+        "로보틱스",
+        "AICOSS",
+        "자율주행"
+      ],
+      "perks": [
+        "사업단장상 수여",
+        "장비 전액지원",
+        "크리에이티브파크"
+      ],
+      "summary": "경북대학교 크리에이티브 파크에서 개최되는 피지컬 AI 및 자율주행 제어 해커톤 대회입니다.",
+      "isNew": false
+    }
+  ]
+}
